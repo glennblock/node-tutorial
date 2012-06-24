@@ -6,7 +6,7 @@ Code is inspired by samples on nodejs.org/api. Special thanks to nodejitsu for t
 
 * <b>http_request</b>: using 'http' to create an http request
 * <b>file_io_read</b>: using 'fs' to read files
-* <b>file_io_write>/b>: using 'fs' to write files
+* <b>file_io_write</b>: using 'fs' to write files
 * <b>streams</b>: piping data to a stream
 * <b>process</b>: using 'process' to access environment variables, arguments, and keyboard input
 * <b>child_process</b>: using 'child_process' to execute shell commands and for child processes.
