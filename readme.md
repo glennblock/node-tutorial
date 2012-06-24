@@ -10,6 +10,7 @@ Code is inspired by samples on nodejs.org/api. Special thanks to nodejitsu for t
 * <b>streams</b>: piping data to a stream
 * <b>process</b>: using 'process' to access environment variables, arguments, and keyboard input
 * <b>child_process</b>: using 'child_process' to execute shell commands and for child processes.
+* <b>child_process_forked</b> used by child_process.
 * <b>cluster</b>: using 'cluser' to create worker processes
               
           
